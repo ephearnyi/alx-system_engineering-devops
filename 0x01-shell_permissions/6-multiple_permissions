@@ -1,3 +1,2 @@
-[main 59f79fa] Multiple permission
- 1 file changed, 2 insertions(+)
- mode change 100644 => 100755 0x01-shell_permissions/6-multiple_permissions
+#!/bin/bash
+chmod ug+x,o+r hello
